@@ -1,5 +1,0 @@
-# Changelog
-
-##### v1.0 Released 12-07-2025
-
-First version
